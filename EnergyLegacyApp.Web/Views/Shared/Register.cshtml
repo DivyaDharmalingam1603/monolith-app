@@ -1,0 +1,68 @@
+@model EnergyLegacyApp.Web.Models.RegisterViewModel
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Layout";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0"><i class="fas fa-user-plus me-2"></i>Register</h4>
+            </div>
+            <div class="card-body">
+                <form action="/Auth/Register" method="post">
+                    <div class="text-danger">
+                        @Html.ValidationSummary(true)
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="Username" class="form-label">Username</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                            <input type="text" id="Username" name="Username" class="form-control" placeholder="Choose a username" value="@Model?.Username" />
+                        </div>
+                        <span class="text-danger">@Html.ValidationMessageFor(m => m.Username)</span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="Email" class="form-label">Email</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                            <input type="email" id="Email" name="Email" class="form-control" placeholder="Enter your email" value="@Model?.Email" />
+                        </div>
+                        <span class="text-danger">@Html.ValidationMessageFor(m => m.Email)</span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="Password" class="form-label">Password</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                            <input type="password" id="Password" name="Password" class="form-control" placeholder="Create a password" />
+                        </div>
+                        <span class="text-danger">@Html.ValidationMessageFor(m => m.Password)</span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="ConfirmPassword" class="form-label">Confirm Password</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                            <input type="password" id="ConfirmPassword" name="ConfirmPassword" class="form-control" placeholder="Confirm your password" />
+                        </div>
+                        <span class="text-danger">@Html.ValidationMessageFor(m => m.ConfirmPassword)</span>
+                    </div>
+                    
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-user-plus me-2"></i>Register
+                        </button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-center">
+                <p class="mb-0">Already have an account? <a href="/Auth/Login">Login</a></p>
+            </div>
+        </div>
+    </div>
+</div>

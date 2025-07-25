@@ -1,0 +1,57 @@
+@model EnergyLegacyApp.Web.Models.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+    Layout = "_Layout";
+}
+
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="card shadow-sm">
+            <div class="card-header bg-primary text-white">
+                <h4 class="mb-0"><i class="fas fa-sign-in-alt me-2"></i>Login</h4>
+            </div>
+            <div class="card-body">
+                <form action="/Auth/Login" method="post">
+                    <div class="text-danger">
+                        @Html.ValidationSummary(true)
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="Username" class="form-label">Username</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-user"></i></span>
+                            <input type="text" id="Username" name="Username" class="form-control" placeholder="Enter username" value="@Model?.Username" />
+                        </div>
+                        <span class="text-danger">@Html.ValidationMessageFor(m => m.Username)</span>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="Password" class="form-label">Password</label>
+                        <div class="input-group">
+                            <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                            <input type="password" id="Password" name="Password" class="form-control" placeholder="Enter password" />
+                        </div>
+                        <span class="text-danger">@Html.ValidationMessageFor(m => m.Password)</span>
+                    </div>
+                    
+                    <div class="mb-3 form-check">
+                        <input type="checkbox" id="RememberMe" name="RememberMe" class="form-check-input" value="true" />
+                        <label for="RememberMe" class="form-check-label">Remember me</label>
+                    </div>
+                    
+                    <input type="hidden" name="returnUrl" value="@ViewBag.ReturnUrl" />
+                    
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-sign-in-alt me-2"></i>Login
+                        </button>
+                    </div>
+                </form>
+            </div>
+            <div class="card-footer text-center">
+                <p class="mb-0">Don't have an account? <a href="/Auth/Register">Register</a></p>
+            </div>
+        </div>
+    </div>
+</div>

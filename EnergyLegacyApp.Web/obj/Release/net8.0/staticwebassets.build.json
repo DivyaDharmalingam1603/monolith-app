@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "usXu4twzZFVu63eSzb7+j5qu3rmti5F8+F0Z/biXFd8=",
+  "Source": "EnergyLegacyApp.Web",
+  "BasePath": "_content/EnergyLegacyApp.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnergyLegacyApp.Web\\wwwroot",
+      "Source": "EnergyLegacyApp.Web",
+      "ContentRoot": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
+      "BasePath": "_content/EnergyLegacyApp.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
+      "SourceId": "EnergyLegacyApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
+      "BasePath": "_content/EnergyLegacyApp.Web",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
+      "SourceId": "EnergyLegacyApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
+      "BasePath": "_content/EnergyLegacyApp.Web",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

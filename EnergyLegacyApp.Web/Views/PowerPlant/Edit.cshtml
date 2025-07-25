@@ -1,0 +1,196 @@
+@model EnergyLegacyApp.Data.Models.PowerPlant
+
+@{
+    ViewData["Title"] = "Edit Power Plant";
+}
+
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1 class="display-5 text-primary">
+            <i class="fas fa-edit me-3"></i>Edit Power Plant
+        </h1>
+        <p class="lead">Update power plant information</p>
+    </div>
+    <div class="col-md-4 text-end">
+        <a href="@Url.Action("Index")" class="btn btn-secondary">
+            <i class="fas fa-arrow-left me-2"></i>Back to List
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card shadow">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">
+                    <i class="fas fa-info-circle me-2"></i>Plant Information
+                </h6>
+            </div>
+            <div class="card-body">
+                <form asp-action="Edit" method="post">
+                    <input asp-for="Id" type="hidden" />
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="Name" class="form-label">
+                                <i class="fas fa-building me-1"></i>Plant Name *
+                            </label>
+                            <input asp-for="Name" class="form-control" required />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="Type" class="form-label">
+                                <i class="fas fa-cog me-1"></i>Plant Type *
+                            </label>
+                            <select asp-for="Type" class="form-select" required>
+                                @foreach (var type in ViewBag.PlantTypes as List<string>)
+                                {
+                                    <option value="@type">@type</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Type" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="Capacity" class="form-label">
+                                <i class="fas fa-bolt me-1"></i>Capacity (MW) *
+                            </label>
+                            <input asp-for="Capacity" type="number" step="0.1" class="form-control" required />
+                            <span asp-validation-for="Capacity" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="CurrentOutput" class="form-label">
+                                <i class="fas fa-tachometer-alt me-1"></i>Current Output (MW)
+                            </label>
+                            <input asp-for="CurrentOutput" type="number" step="0.1" class="form-control" />
+                            <span asp-validation-for="CurrentOutput" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-12 mb-3">
+                            <label for="Location" class="form-label">
+                                <i class="fas fa-map-marker-alt me-1"></i>Location *
+                            </label>
+                            <input asp-for="Location" class="form-control" required />
+                            <span asp-validation-for="Location" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="Status" class="form-label">
+                                <i class="fas fa-info-circle me-1"></i>Status *
+                            </label>
+                            <select asp-for="Status" class="form-select" required>
+                                @foreach (var status in ViewBag.StatusOptions as List<string>)
+                                {
+                                    <option value="@status">@status</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Status" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="EfficiencyRating" class="form-label">
+                                <i class="fas fa-percentage me-1"></i>Efficiency Rating (0-1)
+                            </label>
+                            <input asp-for="EfficiencyRating" type="number" step="0.01" min="0" max="1" class="form-control" />
+                            <span asp-validation-for="EfficiencyRating" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="OperatorCompany" class="form-label">
+                                <i class="fas fa-building me-1"></i>Operator Company
+                            </label>
+                            <input asp-for="OperatorCompany" class="form-control" />
+                            <span asp-validation-for="OperatorCompany" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="MaintenanceCost" class="form-label">
+                                <i class="fas fa-dollar-sign me-1"></i>Annual Maintenance Cost
+                            </label>
+                            <input asp-for="MaintenanceCost" type="number" step="0.01" class="form-control" />
+                            <span asp-validation-for="MaintenanceCost" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="CommissionDate" class="form-label">
+                                <i class="fas fa-calendar me-1"></i>Commission Date
+                            </label>
+                            <input asp-for="CommissionDate" type="date" class="form-control" />
+                            <span asp-validation-for="CommissionDate" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="LastMaintenanceDate" class="form-label">
+                                <i class="fas fa-wrench me-1"></i>Last Maintenance Date
+                            </label>
+                            <input asp-for="LastMaintenanceDate" type="date" class="form-control" />
+                            <span asp-validation-for="LastMaintenanceDate" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row mt-4">
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-primary btn-lg me-3">
+                                <i class="fas fa-save me-2"></i>Update Power Plant
+                            </button>
+                            <a href="@Url.Action("Details", new { id = Model.Id })" class="btn btn-info btn-lg me-3">
+                                <i class="fas fa-eye me-2"></i>View Details
+                            </a>
+                            <a href="@Url.Action("Index")" class="btn btn-secondary btn-lg">
+                                <i class="fas fa-times me-2"></i>Cancel
+                            </a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4">
+        <div class="card shadow">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-info">
+                    <i class="fas fa-chart-line me-2"></i>Current Status
+                </h6>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label class="form-label">Capacity Utilization</label>
+                    <div class="progress">
+                        <div class="progress-bar" role="progressbar" 
+                             style="width: @((Model.CurrentOutput / Model.Capacity * 100).ToString("N0"))%">
+                            @((Model.CurrentOutput / Model.Capacity * 100).ToString("N1"))%
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="mb-3">
+                    <label class="form-label">Efficiency Rating</label>
+                    <div class="progress">
+                        <div class="progress-bar bg-success" role="progressbar" 
+                             style="width: @((Model.EfficiencyRating * 100).ToString("N0"))%">
+                            @((Model.EfficiencyRating * 100).ToString("N1"))%
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-info">
+                    <h6><i class="fas fa-info-circle me-2"></i>Plant ID: @Model.Id</h6>
+                    <p class="mb-0">Last updated: @DateTime.Now.ToString("MMM dd, yyyy")</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

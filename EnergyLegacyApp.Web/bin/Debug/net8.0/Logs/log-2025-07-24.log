@@ -1,0 +1,31 @@
+2025-07-24 01:17:10,746 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-24 01:17:10,750 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-24 01:17:10,752 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-24 01:17:10,752 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-24 01:17:10,752 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-24 01:17:27,376 [9] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-24 02:14:38,963 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-24 02:14:38,969 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-24 02:14:38,971 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-24 02:14:38,971 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-24 02:14:38,971 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-24 02:14:40,122 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-24 02:14:44,909 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-24 02:15:01,970 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - New user registered: verma at 07/24/2025 02:15:01
+2025-07-24 02:15:02,111 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-24 02:15:10,334 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: verma
+2025-07-24 02:15:10,405 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'verma' logged in successfully.
+2025-07-24 02:15:10,490 [13] INFO  EnergyLegacyApp.Web.Controllers.HomeController - Home Controller Constructor
+2025-07-24 02:15:10,491 [13] INFO  EnergyLegacyApp.Web.Controllers.HomeController - Hello from......Home Page
+2025-07-24 02:27:33,472 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-24 02:27:33,477 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-24 02:27:33,478 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-24 02:27:33,479 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-24 02:27:33,479 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-24 02:27:34,533 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-24 02:27:40,878 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: verma
+2025-07-24 02:27:40,918 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'verma' logged in successfully.
+2025-07-24 02:27:40,948 [5] INFO  EnergyLegacyApp.Web.Controllers.HomeController - Home Controller Constructor
+2025-07-24 02:27:40,950 [5] INFO  EnergyLegacyApp.Web.Controllers.HomeController - Hello from......Home Page
+2025-07-24 02:27:58,615 [13] INFO  EnergyLegacyApp.Web.Controllers.HomeController - Home Controller Constructor
+2025-07-24 02:27:58,615 [13] INFO  EnergyLegacyApp.Web.Controllers.HomeController - Hello from......Home Page

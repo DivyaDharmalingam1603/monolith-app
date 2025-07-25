@@ -1,0 +1,392 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Tests\\EnergyLegacyApp.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj",
+        "projectName": "EnergyLegacyApp.Business",
+        "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj",
+        "packagesPath": "C:\\Users\\ranjit-verma\\.nuget\\packages\\",
+        "outputPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ranjit-verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj": {
+                "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj",
+        "projectName": "EnergyLegacyApp.Data",
+        "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj",
+        "packagesPath": "C:\\Users\\ranjit-verma\\.nuget\\packages\\",
+        "outputPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ranjit-verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Tests\\EnergyLegacyApp.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Tests\\EnergyLegacyApp.Tests.csproj",
+        "projectName": "EnergyLegacyApp.Tests",
+        "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Tests\\EnergyLegacyApp.Tests.csproj",
+        "packagesPath": "C:\\Users\\ranjit-verma\\.nuget\\packages\\",
+        "outputPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ranjit-verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj": {
+                "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj"
+              },
+              "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj": {
+                "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj"
+              },
+              "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj": {
+                "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[*, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+        "projectName": "EnergyLegacyApp.Web",
+        "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+        "packagesPath": "C:\\Users\\ranjit-verma\\.nuget\\packages\\",
+        "outputPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ranjit-verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj": {
+                "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj"
+              },
+              "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj": {
+                "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[8.0.13, )"
+            },
+            "Microsoft.Extensions.Logging.Log4Net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.13.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

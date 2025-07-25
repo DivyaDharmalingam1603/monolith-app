@@ -1,0 +1,120 @@
+2025-07-23 21:52:08,469 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:5000
+2025-07-23 21:52:08,483 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 21:52:08,484 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Production
+2025-07-23 21:52:08,484 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 22:14:04,684 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 22:14:04,694 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 22:14:04,789 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 22:14:04,790 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 22:14:04,790 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 22:14:12,434 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:14:34,321 [17] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: admin
+2025-07-23 22:16:29,433 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 22:16:29,440 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 22:16:29,493 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 22:16:29,494 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 22:16:29,494 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 22:16:32,129 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:16:37,886 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: admin
+2025-07-23 22:16:37,925 [7] WARN  EnergyLegacyApp.Web.Controllers.AuthController - Login failed for user: admin - Invalid credentials.
+2025-07-23 22:17:21,258 [19] INFO  EnergyLegacyApp.Web.Controllers.AuthController - New user registered: Sheen at 07/23/2025 22:17:21
+2025-07-23 22:17:21,421 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:17:27,472 [20] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Sheen 
+2025-07-23 22:17:27,475 [20] WARN  EnergyLegacyApp.Web.Controllers.AuthController - Login failed for user: Sheen  - Invalid credentials.
+2025-07-23 22:21:17,467 [27] INFO  EnergyLegacyApp.Web.Controllers.AuthController - New user registered: lol at 07/23/2025 22:21:17
+2025-07-23 22:21:17,497 [27] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:21:23,992 [27] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: lol
+2025-07-23 22:21:24,071 [27] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'lol' logged in successfully.
+2025-07-23 22:21:30,250 [26] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at AspNetCoreGeneratedDocument.Views_PowerPlant_Index.ExecuteAsync() in D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\Views\PowerPlant\Index.cshtml:line 82
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_3>d.MoveNext() in D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\Program.cs:line 152
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-07-23 22:21:39,387 [27] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at System.Decimal.DecCalc.VarDecDiv(DecCalc& d1, DecCalc& d2)
+   at System.Decimal.op_Division(Decimal d1, Decimal d2)
+   at AspNetCoreGeneratedDocument.Views_PowerPlant_Index.ExecuteAsync() in D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\Views\PowerPlant\Index.cshtml:line 82
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_3>d.MoveNext() in D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\Program.cs:line 152
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-07-23 22:28:43,622 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 22:28:43,633 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 22:28:43,711 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 22:28:43,712 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 22:28:43,712 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 22:28:47,890 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:28:55,620 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: lol
+2025-07-23 22:28:55,717 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'lol' logged in successfully.
+2025-07-23 22:29:30,973 [22] INFO  EnergyLegacyApp.Web.Controllers.PowerPlantController - Power plant 'lol' created by user.
+2025-07-23 22:42:54,523 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 22:42:54,703 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 22:42:54,949 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 22:42:54,950 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 22:42:54,951 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 22:43:03,582 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:43:59,675 [19] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Jesus
+2025-07-23 22:43:59,854 [19] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Jesus' logged in successfully.
+2025-07-23 22:44:09,896 [19] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User logged out at 07/23/2025 22:44:09
+2025-07-23 22:44:09,939 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:49:17,959 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 22:49:17,973 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 22:49:18,091 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 22:49:18,092 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 22:49:18,092 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 22:49:20,978 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-23 22:49:27,265 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Jesus
+2025-07-23 22:49:27,486 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Jesus' logged in successfully.
+2025-07-23 23:02:02,316 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 23:02:02,325 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 23:02:02,400 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 23:02:02,400 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 23:02:02,400 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 23:02:20,820 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.

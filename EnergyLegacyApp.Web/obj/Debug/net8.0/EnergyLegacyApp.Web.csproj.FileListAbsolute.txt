@@ -1,0 +1,591 @@
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.config
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.config
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Moq.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.config
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Castle.Core.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Moq.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IO.Pipelines.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Json.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.config
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Castle.Core.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Moq.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IO.Pipelines.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Json.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.config
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Castle.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Moq.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.config
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\appsettings.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.exe
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.deps.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Web.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Castle.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\log4net.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Moq.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\MySql.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Text.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\ZstdSharp.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Business.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.AssemblyReference.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfoInputs.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.AssemblyInfo.cs
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.csproj.CoreCompileInputs.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.RazorAssemblyInfo.cs
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.EnergyLegacyApp.Web.props
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EnergyLegacyApp.Web.props
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EnergyLegacyApp.Web.props
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\scopedcss\bundle\EnergyLegacyApp.Web.styles.css
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLe.5514BFA1.Up2Date
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\EnergyLegacyApp.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll

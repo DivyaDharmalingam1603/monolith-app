@@ -1,0 +1,104 @@
+@model ErrorViewModel
+@using Microsoft.AspNetCore.Hosting
+@using Microsoft.Extensions.DependencyInjection
+@using Microsoft.Extensions.Hosting
+@{
+    ViewData["Title"] = "Error";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <div class="card shadow border-danger">
+            <div class="card-header bg-danger text-white">
+                <h4 class="mb-0">
+                    <i class="fas fa-exclamation-triangle me-2"></i>
+                    An Error Occurred
+                </h4>
+            </div>
+            <div class="card-body text-center py-5">
+                <i class="fas fa-bug fa-4x text-danger mb-4"></i>
+                <h2 class="text-danger mb-3">Oops! Something went wrong</h2>
+                <p class="lead text-muted mb-4">
+                    We're sorry, but an unexpected error has occurred while processing your request.
+                </p>
+                
+                @if (Model.ShowRequestId)
+                {
+                    <div class="alert alert-info">
+                        <strong>Request ID:</strong> <code>@Model.RequestId</code>
+                        <br>
+                        <small class="text-muted">Please include this ID when reporting the issue.</small>
+                    </div>
+                }
+                
+                <div class="mt-4">
+                    <a href="@Url.Action("Index", "Home")" class="btn btn-primary btn-lg me-3">
+                        <i class="fas fa-home me-2"></i>Go to Dashboard
+                    </a>
+                    <button onclick="history.back()" class="btn btn-secondary btn-lg">
+                        <i class="fas fa-arrow-left me-2"></i>Go Back
+                    </button>
+                </div>
+                
+                <div class="mt-4">
+                    <small class="text-muted">
+                        If this problem persists, please contact the system administrator.
+                    </small>
+                </div>
+            </div>
+        </div>
+        
+        <!-- ANTI-PATTERN: Exposing technical details in production -->
+        @if (ViewContext.HttpContext.RequestServices.GetService<IHostEnvironment>()?.IsDevelopment() == true)
+        {
+            <div class="card shadow mt-4">
+                <div class="card-header bg-warning">
+                    <h6 class="mb-0">
+                        <i class="fas fa-code me-2"></i>
+                        Development Information
+                    </h6>
+                </div>
+                <div class="card-body">
+                    <div class="alert alert-warning">
+                        <i class="fas fa-exclamation-triangle me-2"></i>
+                        <strong>Note:</strong> This detailed error information is only shown in development mode.
+                        In production, generic error messages should be displayed to users.
+                    </div>
+                    
+                    <h6>Common Issues in This Legacy Application:</h6>
+                    <ul>
+                        <li>Database connection failures (hardcoded connection strings)</li>
+                        <li>SQL injection vulnerabilities</li>
+                        <li>Unhandled exceptions in business logic</li>
+                        <li>Missing input validation</li>
+                        <li>Resource disposal issues</li>
+                    </ul>
+                    
+                    <h6>Modernization Opportunities:</h6>
+                    <ul>
+                        <li>Implement proper error handling and logging</li>
+                        <li>Add structured logging with AWS CloudWatch</li>
+                        <li>Use AWS X-Ray for distributed tracing</li>
+                        <li>Implement circuit breaker patterns</li>
+                        <li>Add health checks and monitoring</li>
+                    </ul>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // ANTI-PATTERN: Client-side error reporting without proper security
+        document.addEventListener('DOMContentLoaded', function() {
+            // Simulate error reporting (in real app, this should be secure)
+            console.error('Application Error:', {
+                requestId: '@Model.RequestId',
+                timestamp: new Date().toISOString(),
+                userAgent: navigator.userAgent,
+                url: window.location.href
+            });
+        });
+    </script>
+}

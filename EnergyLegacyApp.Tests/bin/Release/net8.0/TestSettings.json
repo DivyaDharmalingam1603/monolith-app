@@ -1,0 +1,26 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=EnergyDB;Uid=root;Pwd=Kumar2002@"
+  },
+  "TestSettings": {
+    "EnableIntegrationTests": true,
+    "EnablePerformanceTests": false,
+    "PerformanceThresholds": {
+      "MaxQueryTimeMs": 2000,
+      "MaxMemoryUsageMB": 10,
+      "MaxConcurrentRequests": 5
+    },
+    "TestDataSettings": {
+      "CreateTestData": true,
+      "CleanupAfterTests": false,
+      "UseInMemoryDatabase": false
+    }
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  }
+}

@@ -1,0 +1,1098 @@
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\.msCoverageSourceRootsMapping_EnergyLegacyApp.Tests
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\CoverletSourceRootsMapping_EnergyLegacyApp.Tests
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.csproj.AssemblyReference.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\MvcTestingAppManifest.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.gentestingplatformentrypointinputcache.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.genautoregisteredextensionsinputcache.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.AssemblyInfoInputs.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.AssemblyInfo.cs
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.csproj.CoreCompileInputs.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\testhost.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.deps.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\log4net.config
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\appsettings.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.exe
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\testhost.exe
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\MvcTestingAppManifest.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\TestSettings.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.deps.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.runtimeconfig.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.CSharp.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.JSInterop.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.VisualBasic.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\mscorlib.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\netstandard.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.AppContext.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Buffers.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.Concurrent.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.Immutable.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.NonGeneric.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.Specialized.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Configuration.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Console.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Data.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Debug.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Process.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Tools.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Drawing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Drawing.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Dynamic.Runtime.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Formats.Asn1.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Formats.Tar.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Globalization.Calendars.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Globalization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Globalization.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Pipes.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.Expressions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.Parallel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.Queryable.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Memory.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Http.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Http.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.HttpListener.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Mail.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.NameResolution.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.NetworkInformation.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Ping.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Quic.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Requests.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Security.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.ServicePoint.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Sockets.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebProxy.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebSockets.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Numerics.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Numerics.Vectors.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ObjectModel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Emit.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Metadata.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Resources.Reader.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Resources.ResourceManager.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Resources.Writer.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Handles.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.InteropServices.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Loader.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Numerics.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.AccessControl.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Claims.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Principal.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Principal.Windows.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.SecureString.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ServiceModel.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ServiceProcess.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.Encoding.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.RegularExpressions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Channels.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Overlapped.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.RateLimiting.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Thread.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.ThreadPool.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Timer.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Transactions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Transactions.Local.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ValueTuple.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Web.HttpUtility.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Windows.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.Linq.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.Serialization.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XDocument.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XmlDocument.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XPath.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\WindowsBase.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Castle.Core.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\FluentAssertions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Google.Protobuf.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\K4os.Compression.LZ4.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\K4os.Hash.xxHash.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\log4net.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.ApplicationInsights.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.TestHost.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Platform.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.MSBuild.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Moq.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\MySql.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Data.SqlClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Drawing.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.IO.Pipelines.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Security.Permissions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Text.Json.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ZstdSharp.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Business.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Business.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLe.347DA10B.Up2Date
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\refint\EnergyLegacyApp.Tests.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.genruntimeconfig.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Tests\obj\Release\net8.0\ref\EnergyLegacyApp.Tests.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\.msCoverageSourceRootsMapping_EnergyLegacyApp.Tests
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\CoverletSourceRootsMapping_EnergyLegacyApp.Tests
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\log4net.config
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\appsettings.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\testhost.exe
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\testhost.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.deps.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.runtimeconfig.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.staticwebassets.runtime.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.exe
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\MvcTestingAppManifest.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\TestSettings.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.deps.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.runtimeconfig.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Tests.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.CSharp.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.JSInterop.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.VisualBasic.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\mscorlib.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\netstandard.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.AppContext.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Buffers.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.Concurrent.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.Immutable.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.NonGeneric.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Collections.Specialized.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Configuration.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Console.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Data.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Debug.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Process.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Tools.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Drawing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Drawing.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Dynamic.Runtime.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Formats.Asn1.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Formats.Tar.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Globalization.Calendars.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Globalization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Globalization.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.Pipes.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.Expressions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.Parallel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Linq.Queryable.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Memory.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Http.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Http.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.HttpListener.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Mail.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.NameResolution.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.NetworkInformation.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Ping.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Quic.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Requests.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Security.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.ServicePoint.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.Sockets.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebProxy.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Net.WebSockets.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Numerics.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Numerics.Vectors.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ObjectModel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Emit.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Metadata.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Resources.Reader.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Resources.ResourceManager.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Resources.Writer.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Handles.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.InteropServices.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Loader.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Numerics.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.AccessControl.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Claims.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Principal.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.Principal.Windows.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Security.SecureString.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ServiceModel.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ServiceProcess.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.Encoding.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Text.RegularExpressions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Channels.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Overlapped.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.RateLimiting.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Thread.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.ThreadPool.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Threading.Timer.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Transactions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Transactions.Local.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.ValueTuple.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Web.HttpUtility.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Windows.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.Linq.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.Serialization.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XDocument.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XmlDocument.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XPath.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\refs\WindowsBase.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\BouncyCastle.Cryptography.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Castle.Core.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\FluentAssertions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Google.Protobuf.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\K4os.Compression.LZ4.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\K4os.Hash.xxHash.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\log4net.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.ApplicationInsights.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.Mvc.Testing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.AspNetCore.TestHost.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Platform.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Testing.Extensions.MSBuild.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Moq.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\MySql.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Newtonsoft.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Newtonsoft.Json.Bson.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Data.SqlClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Drawing.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.IO.Pipelines.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Security.Permissions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Text.Json.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\System.Windows.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ZstdSharp.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x64\native\sni.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win-x86\native\sni.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Business.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Web.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Business.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\bin\Release\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.csproj.AssemblyReference.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\MvcTestingAppManifest.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.gentestingplatformentrypointinputcache.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.genautoregisteredextensionsinputcache.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.AssemblyInfoInputs.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.AssemblyInfo.cs
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.csproj.CoreCompileInputs.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLe.347DA10B.Up2Date
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\refint\EnergyLegacyApp.Tests.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\EnergyLegacyApp.Tests.genruntimeconfig.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Release\net8.0\ref\EnergyLegacyApp.Tests.dll

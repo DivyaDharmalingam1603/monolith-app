@@ -1,0 +1,6 @@
+2025-07-23 23:44:15,307 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-23 23:44:15,319 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-23 23:44:15,437 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-23 23:44:15,438 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-23 23:44:15,439 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-23 23:44:35,265 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.

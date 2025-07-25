@@ -1,0 +1,175 @@
+2025-07-22 15:51:39,563 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 15:51:39,571 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 15:51:39,614 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 15:51:39,615 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 15:51:39,615 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 15:51:43,964 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 15:51:53,100 [16] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 15:51:53,298 [16] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 16:08:15,161 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:08:15,167 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:08:15,189 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:08:15,189 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:08:15,189 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:08:18,115 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:09:27,703 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - New user registered: Test2 at 07/22/2025 16:09:27
+2025-07-22 16:09:27,845 [9] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:10:16,748 [3] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Test2
+2025-07-22 16:10:16,788 [3] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Test2' logged in successfully.
+2025-07-22 16:10:21,020 [30] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User logged out at 07/22/2025 16:10:21
+2025-07-22 16:10:21,049 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:17:44,479 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:17:44,484 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:17:44,508 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:17:44,508 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:17:44,508 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:17:47,405 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:18:04,424 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Test2
+2025-07-22 16:18:04,521 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Test2' logged in successfully.
+2025-07-22 16:18:49,062 [18] INFO  EnergyLegacyApp.Web.Controllers.PowerPlantController - Power plant 'AxcessTest3' created by user.
+2025-07-22 16:19:00,170 [10] INFO  EnergyLegacyApp.Web.Controllers.PowerPlantController - Power plant with ID 11 ('AxcessTest1') deleted successfully.
+2025-07-22 16:19:49,769 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User logged out at 07/22/2025 16:19:49
+2025-07-22 16:19:49,819 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:19:59,322 [19] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Test
+2025-07-22 16:19:59,326 [19] WARN  EnergyLegacyApp.Web.Controllers.AuthController - Login failed for user: Test - Invalid credentials.
+2025-07-22 16:33:45,984 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:33:45,992 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:33:46,020 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:33:46,020 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:33:46,020 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:33:48,606 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:39:23,241 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:39:23,245 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:39:23,269 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:39:23,269 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:39:23,269 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:39:24,838 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:39:32,775 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 16:39:32,917 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 16:51:07,537 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:51:07,545 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:51:07,589 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:51:07,590 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:51:07,590 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:51:10,431 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:51:56,220 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:51:56,225 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:51:56,245 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:51:56,246 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:51:56,246 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:51:57,831 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:52:09,895 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 16:52:09,960 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 16:52:12,950 [15] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'EnergyLegacyApp.Web.Controllers.PowerPlantController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_3>d.MoveNext() in C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\Program.cs:line 145
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-07-22 16:52:22,545 [5] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'EnergyLegacyApp.Web.Controllers.PowerPlantController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_3>d.MoveNext() in C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\Program.cs:line 145
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-07-22 16:54:49,907 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:54:49,912 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:54:49,936 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:54:49,936 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:54:49,936 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:54:51,689 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:55:04,867 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 16:55:04,902 [15] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 16:55:06,571 [14] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'EnergyLegacyApp.Web.Controllers.PowerPlantController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_3>d.MoveNext() in C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\Program.cs:line 145
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-07-22 16:55:52,808 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:55:52,813 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:55:52,833 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:55:52,833 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:55:52,833 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:55:54,272 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:56:05,677 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 16:56:05,713 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 16:56:08,321 [12] ERROR Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware - An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Multiple constructors accepting all given argument types have been found in type 'EnergyLegacyApp.Web.Controllers.PowerPlantController'. There should only be one applicable constructor.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.TryFindMatchingConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& parameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactoryInternal(Type instanceType, Type[] argumentTypes, ParameterExpression& provider, ParameterExpression& argumentArray, Expression& factoryExpressionBody)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.CreateActivator(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.CreateControllerFactory(ControllerActionDescriptor descriptor)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Program.<>c.<<<Main>$>b__0_3>d.MoveNext() in C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web\Program.cs:line 145
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2025-07-22 16:56:29,579 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:56:29,584 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:56:29,607 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:56:29,607 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:56:29,607 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:56:31,174 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:56:37,580 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 16:56:37,606 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 16:58:17,985 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 16:58:17,989 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 16:58:18,016 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 16:58:18,016 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 16:58:18,016 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 16:58:19,698 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 16:58:34,660 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 16:58:34,698 [13] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 17:17:07,363 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 17:17:07,373 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 17:17:07,442 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 17:17:07,443 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 17:17:07,443 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 17:17:11,780 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 17:17:19,046 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 17:17:19,168 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 17:22:57,406 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 17:22:57,412 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 17:22:57,437 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 17:22:57,438 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 17:22:57,438 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 17:23:00,255 [10] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 17:23:07,954 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 17:23:08,029 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 17:23:18,026 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User logged out at 07/22/2025 17:23:18
+2025-07-22 17:23:18,091 [14] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 17:25:32,319 [18] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 17:25:32,332 [18] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.
+2025-07-22 17:26:25,676 [9] INFO  EnergyLegacyApp.Web.Controllers.PowerPlantController - Power plant 'Raj' created by user.

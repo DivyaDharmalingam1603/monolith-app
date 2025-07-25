@@ -1,0 +1,239 @@
+@model EnergyLegacyApp.Data.Models.PowerPlant
+
+@{
+    ViewData["Title"] = "Create Power Plant";
+}
+
+<div class="row mb-4">
+    <div class="col-md-8">
+        <h1 class="display-5 text-primary">
+            <i class="fas fa-plus-circle me-3"></i>Add New Power Plant
+        </h1>
+        <p class="lead">Register a new power generation facility</p>
+    </div>
+    <div class="col-md-4 text-end">
+        <a href="@Url.Action("Index")" class="btn btn-secondary">
+            <i class="fas fa-arrow-left me-2"></i>Back to List
+        </a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card shadow">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-primary">
+                    <i class="fas fa-info-circle me-2"></i>Plant Information
+                </h6>
+            </div>
+            <div class="card-body">
+                <form asp-action="Create" method="post">
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="Name" class="form-label">
+                                <i class="fas fa-building me-1"></i>Plant Name *
+                            </label>
+                            <input asp-for="Name" class="form-control" placeholder="Enter plant name" required />
+                            <span asp-validation-for="Name" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="Type" class="form-label">
+                                <i class="fas fa-cog me-1"></i>Plant Type *
+                            </label>
+                            <select asp-for="Type" class="form-select" required>
+                                <option value="">Select plant type</option>
+                                @foreach (var type in ViewBag.PlantTypes as List<string>)
+                                {
+                                    <option value="@type">@type</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Type" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="Capacity" class="form-label">
+                                <i class="fas fa-bolt me-1"></i>Capacity (MW) *
+                            </label>
+                            <input asp-for="Capacity" type="number" step="0.1" class="form-control" 
+                                   placeholder="Enter capacity in MW" required />
+                            <span asp-validation-for="Capacity" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="CurrentOutput" class="form-label">
+                                <i class="fas fa-tachometer-alt me-1"></i>Current Output (MW)
+                            </label>
+                            <input asp-for="CurrentOutput" type="number" step="0.1" class="form-control" 
+                                   placeholder="Enter current output" />
+                            <span asp-validation-for="CurrentOutput" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-12 mb-3">
+                            <label for="Location" class="form-label">
+                                <i class="fas fa-map-marker-alt me-1"></i>Location *
+                            </label>
+                            <input asp-for="Location" class="form-control" 
+                                   placeholder="Enter plant location (City, State)" required />
+                            <span asp-validation-for="Location" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="Status" class="form-label">
+                                <i class="fas fa-info-circle me-1"></i>Status *
+                            </label>
+                            <select asp-for="Status" class="form-select" required>
+                                <option value="">Select status</option>
+                                @foreach (var status in ViewBag.StatusOptions as List<string>)
+                                {
+                                    <option value="@status">@status</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Status" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="EfficiencyRating" class="form-label">
+                                <i class="fas fa-percentage me-1"></i>Efficiency Rating (0-1)
+                            </label>
+                            <input asp-for="EfficiencyRating" type="number" step="0.01" min="0" max="1" 
+                                   class="form-control" placeholder="e.g., 0.85 for 85%" />
+                            <span asp-validation-for="EfficiencyRating" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="OperatorCompany" class="form-label">
+                                <i class="fas fa-building me-1"></i>Operator Company
+                            </label>
+                            <input asp-for="OperatorCompany" class="form-control" 
+                                   placeholder="Enter operator company name" />
+                            <span asp-validation-for="OperatorCompany" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="MaintenanceCost" class="form-label">
+                                <i class="fas fa-dollar-sign me-1"></i>Annual Maintenance Cost
+                            </label>
+                            <input asp-for="MaintenanceCost" type="number" step="0.01" class="form-control" 
+                                   placeholder="Enter annual maintenance cost" />
+                            <span asp-validation-for="MaintenanceCost" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 mb-3">
+                            <label for="CommissionDate" class="form-label">
+                                <i class="fas fa-calendar me-1"></i>Commission Date
+                            </label>
+                            <input asp-for="CommissionDate" type="date" class="form-control" />
+                            <span asp-validation-for="CommissionDate" class="text-danger"></span>
+                        </div>
+                        
+                        <div class="col-md-6 mb-3">
+                            <label for="LastMaintenanceDate" class="form-label">
+                                <i class="fas fa-wrench me-1"></i>Last Maintenance Date
+                            </label>
+                            <input asp-for="LastMaintenanceDate" type="date" class="form-control" />
+                            <span asp-validation-for="LastMaintenanceDate" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                    <div class="row mt-4">
+                        <div class="col-12">
+                            <button type="submit" class="btn btn-success btn-lg me-3">
+                                <i class="fas fa-save me-2"></i>Create Power Plant
+                            </button>
+                            <a href="@Url.Action("Index")" class="btn btn-secondary btn-lg">
+                                <i class="fas fa-times me-2"></i>Cancel
+                            </a>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4">
+        <div class="card shadow">
+            <div class="card-header py-3">
+                <h6 class="m-0 font-weight-bold text-info">
+                    <i class="fas fa-lightbulb me-2"></i>Guidelines
+                </h6>
+            </div>
+            <div class="card-body">
+                <div class="alert alert-info">
+                    <h6><i class="fas fa-info-circle me-2"></i>Plant Type Guidelines:</h6>
+                    <ul class="mb-0">
+                        <li><strong>Coal:</strong> Traditional thermal power</li>
+                        <li><strong>Gas:</strong> Natural gas turbines</li>
+                        <li><strong>Nuclear:</strong> Nuclear reactors</li>
+                        <li><strong>Solar:</strong> Photovoltaic systems</li>
+                        <li><strong>Wind:</strong> Wind turbines</li>
+                        <li><strong>Hydro:</strong> Hydroelectric dams</li>
+                    </ul>
+                </div>
+                
+                <div class="alert alert-warning">
+                    <h6><i class="fas fa-exclamation-triangle me-2"></i>Efficiency Rating:</h6>
+                    <p class="mb-0">Enter as decimal (0.85 = 85%). Typical ranges:</p>
+                    <ul class="mb-0">
+                        <li>Coal: 0.35-0.45</li>
+                        <li>Gas: 0.50-0.60</li>
+                        <li>Nuclear: 0.33-0.35</li>
+                        <li>Solar: 0.15-0.22</li>
+                        <li>Wind: 0.35-0.45</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <script>
+        // ANTI-PATTERN: Client-side validation mixed with server-side
+        document.addEventListener('DOMContentLoaded', function() {
+            const typeSelect = document.getElementById('Type');
+            const efficiencyInput = document.getElementById('EfficiencyRating');
+            
+            typeSelect.addEventListener('change', function() {
+                const type = this.value;
+                let suggestedEfficiency = '';
+                
+                // ANTI-PATTERN: Hardcoded business rules in JavaScript
+                switch(type) {
+                    case 'Coal':
+                        suggestedEfficiency = '0.40';
+                        break;
+                    case 'Gas':
+                        suggestedEfficiency = '0.55';
+                        break;
+                    case 'Nuclear':
+                        suggestedEfficiency = '0.34';
+                        break;
+                    case 'Solar':
+                        suggestedEfficiency = '0.20';
+                        break;
+                    case 'Wind':
+                        suggestedEfficiency = '0.40';
+                        break;
+                    case 'Hydro':
+                        suggestedEfficiency = '0.90';
+                        break;
+                }
+                
+                if (suggestedEfficiency && !efficiencyInput.value) {
+                    efficiencyInput.value = suggestedEfficiency;
+                }
+            });
+        });
+    </script>
+}

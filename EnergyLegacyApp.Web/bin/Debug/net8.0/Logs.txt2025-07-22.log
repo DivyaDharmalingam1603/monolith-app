@@ -1,0 +1,8 @@
+2025-07-22 15:56:29,556 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-22 15:56:29,564 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-22 15:56:29,594 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-22 15:56:29,595 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-22 15:56:29,595 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Web
+2025-07-22 15:56:32,750 [7] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-22 15:56:40,483 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login attempt for user: Divya
+2025-07-22 15:56:40,569 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - User 'Divya' logged in successfully.

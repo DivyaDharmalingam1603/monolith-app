@@ -1,0 +1,84 @@
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\Transform\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\divya-axcess\Downloads\version1\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\divya-axcess\Downloads\version2\chienvhshopdb-energy-6f15c88df4cb\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+d:\Hack\Day3\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+c:\Users\jesus-axcess\Desktop\Modernization Hackathon\3. Transformed Code\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\AWS\Hackathon - Modernization\NewCode\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll

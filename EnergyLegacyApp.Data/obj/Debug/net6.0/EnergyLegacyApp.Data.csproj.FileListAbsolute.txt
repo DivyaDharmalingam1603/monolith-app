@@ -1,0 +1,12 @@
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net6.0\EnergyLegacyApp.Data.deps.json
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net6.0\EnergyLegacyApp.Data.dll
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\bin\Debug\net6.0\EnergyLegacyApp.Data.pdb
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.dll
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\refint\EnergyLegacyApp.Data.dll
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\EnergyLegacyApp.Data.pdb
+D:\Users\madixit\EnergyLegacyApp\EnergyLegacyApp.Data\obj\Debug\net6.0\ref\EnergyLegacyApp.Data.dll

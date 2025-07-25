@@ -1,0 +1,12 @@
+2025-07-25 16:05:28,646 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-25 16:05:28,651 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-25 16:05:28,653 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-25 16:05:28,653 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-25 16:05:28,653 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web
+2025-07-25 16:05:29,970 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
+2025-07-25 16:10:32,981 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: https://localhost:53391
+2025-07-25 16:10:32,990 [1] INFO  Microsoft.Hosting.Lifetime - Now listening on: http://localhost:53392
+2025-07-25 16:10:32,992 [1] INFO  Microsoft.Hosting.Lifetime - Application started. Press Ctrl+C to shut down.
+2025-07-25 16:10:32,993 [1] INFO  Microsoft.Hosting.Lifetime - Hosting environment: Development
+2025-07-25 16:10:32,993 [1] INFO  Microsoft.Hosting.Lifetime - Content root path: D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web
+2025-07-25 16:10:34,402 [12] INFO  EnergyLegacyApp.Web.Controllers.AuthController - Login page accessed.
