@@ -1,0 +1,31 @@
+## Build output
+bin/
+obj/
+*.exe
+*.dll
+
+## NuGet packages (if using legacy packages.config)
+packages/
+
+## User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Visual Studio files
+.vs/
+.vscode/
+
+## Logs and temp files
+*.log
+*.tmp
+*.cache
+
+## Others
+TestResults/
+*.dbmdl
+*.pdb
+
+## Environment
+.env
