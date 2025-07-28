@@ -3297,3 +3297,4 @@ D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Debug\net8.0\refin
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Debug\net8.0\EnergyLegacyApp.Tests.pdb
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Debug\net8.0\EnergyLegacyApp.Tests.genruntimeconfig.cache
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Debug\net8.0\ref\EnergyLegacyApp.Tests.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Tests\obj\Debug\net8.0\EnergyLegacyApp.Tests.sourcelink.json

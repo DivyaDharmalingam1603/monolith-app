@@ -103,3 +103,4 @@ D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Business\obj\Debug\net8.0\En
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Business\obj\Debug\net8.0\refint\EnergyLegacyApp.Business.dll
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Business\obj\Debug\net8.0\EnergyLegacyApp.Business.pdb
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Business\obj\Debug\net8.0\ref\EnergyLegacyApp.Business.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Business\obj\Debug\net8.0\EnergyLegacyApp.Business.sourcelink.json

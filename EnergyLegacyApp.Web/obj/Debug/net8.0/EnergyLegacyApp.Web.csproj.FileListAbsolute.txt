@@ -589,3 +589,4 @@ D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\refint\
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.pdb
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.genruntimeconfig.cache
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\ref\EnergyLegacyApp.Web.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\obj\Debug\net8.0\EnergyLegacyApp.Web.sourcelink.json

@@ -82,3 +82,4 @@ D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\Energy
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
+D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.sourcelink.json
