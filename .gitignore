@@ -1,31 +1,88 @@
-## Build output
+# Build results
 bin/
 obj/
-*.exe
-*.dll
+out/
+!*/bin/
+!*/obj/
 
-## NuGet packages (if using legacy packages.config)
-packages/
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
 
-## User-specific files
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-## Visual Studio files
+# Mono Auto Generated Files
+mono_crash.*
+
+# VS for Windows
 .vs/
 .vscode/
+*.code-workspace
 
-## Logs and temp files
+# Rider
+.idea/
+*.sln.iml
+
+# Logs and database
 *.log
-*.tmp
-*.cache
-
-## Others
-TestResults/
+*.tlog
+*.sqllite
+*.sql
 *.dbmdl
+*.mdf
+*.ldf
+
+# Environment secrets
+.env
+.env.*
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Package directories
+packages/
+*.nupkg
+*.snupkg
+*.nuspec
+
+# Visual Studio profiler
+*.vsp
+*.vspx
+*.sap
+
+# Symbols
 *.pdb
 
-## Environment
-.env
+# Backup & cache
+*.tmp
+*.bak
+*.cache
+*.orig
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Azure Pipeline artifacts
+*.azure-pipelines.yml
+
+# Mac/Windows/Linux specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Build config
+Directory.Build.props
+Directory.Build.targets
