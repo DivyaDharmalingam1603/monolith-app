@@ -89,6 +89,7 @@ builder.Services.AddScoped<DatabaseHelper>();
 builder.Services.AddScoped<PowerPlantRepository>();
 builder.Services.AddScoped<EnergyConsumptionRepository>();
 builder.Services.AddScoped<UserRepository>();
+builder.WebHost.UseUrls("http://0.0.0.0:80");
 
 var app = builder.Build();
 

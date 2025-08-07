@@ -715,7 +715,10 @@
           "Newtonsoft.Json": "13.0.3"
         },
         "runtime": {
-          "EnergyLegacyApp.Business.dll": {}
+          "EnergyLegacyApp.Business.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "EnergyLegacyApp.Data/1.0.0": {
@@ -728,7 +731,10 @@
           "System.Configuration.ConfigurationManager": "8.0.0"
         },
         "runtime": {
-          "EnergyLegacyApp.Data.dll": {}
+          "EnergyLegacyApp.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

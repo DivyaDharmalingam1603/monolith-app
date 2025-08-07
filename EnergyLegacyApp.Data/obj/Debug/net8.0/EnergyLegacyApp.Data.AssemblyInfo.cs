@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyLegacyApp.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b2e7294e4b990f23c5777f20dc4bb943ed7bd69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdd45ceea8aaddb7a5912a2b01819d0393d22a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyLegacyApp.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyLegacyApp.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

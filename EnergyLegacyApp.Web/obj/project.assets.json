@@ -3638,19 +3638,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ranjit-verma\\.nuget\\packages\\": {}
+    "C:\\Users\\jagatjit-axcess\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
       "projectName": "EnergyLegacyApp.Web",
-      "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
-      "packagesPath": "C:\\Users\\ranjit-verma\\.nuget\\packages\\",
-      "outputPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+      "packagesPath": "C:\\Users\\jagatjit-axcess\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ranjit-verma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jagatjit-axcess\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3665,11 +3670,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj": {
-              "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj"
+            "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj": {
+              "projectPath": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Business\\EnergyLegacyApp.Business.csproj"
             },
-            "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj": {
-              "projectPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj"
+            "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj": {
+              "projectPath": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Data\\EnergyLegacyApp.Data.csproj"
             }
           }
         }
@@ -3683,7 +3688,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -3749,7 +3755,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

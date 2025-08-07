@@ -1,0 +1,13 @@
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Data.deps.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Data.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.AssemblyInfo.cs
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.sourcelink.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\refint\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Data.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Release\net8.0\linux-x64\ref\EnergyLegacyApp.Data.dll

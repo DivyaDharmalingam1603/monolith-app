@@ -83,3 +83,16 @@ D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\refint
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll
 D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.sourcelink.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.deps.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\bin\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.AssemblyReference.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfoInputs.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.AssemblyInfo.cs
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.sourcelink.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\refint\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\EnergyLegacyApp.Data.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Data\obj\Debug\net8.0\ref\EnergyLegacyApp.Data.dll

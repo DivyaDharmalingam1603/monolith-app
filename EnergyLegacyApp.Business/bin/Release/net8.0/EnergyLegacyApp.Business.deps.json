@@ -465,7 +465,10 @@
           "System.Configuration.ConfigurationManager": "8.0.0"
         },
         "runtime": {
-          "EnergyLegacyApp.Data.dll": {}
+          "EnergyLegacyApp.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

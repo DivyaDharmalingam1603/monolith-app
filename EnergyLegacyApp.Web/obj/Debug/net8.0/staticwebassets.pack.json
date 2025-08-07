@@ -1,12 +1,16 @@
 {
   "Files": [
     {
-      "Id": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EnergyLegacyApp.Web.Microsoft.AspNetCore.StaticWebAssets.props",

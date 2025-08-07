@@ -11,7 +11,6 @@ using System.Text;
 namespace EnergyLegacyApp.Web.Helpers
 
 {
-
     public class JwtTokenGenerator
 
     {

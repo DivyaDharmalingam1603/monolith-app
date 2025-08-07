@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("fed79c53-d524-46e0-a41c-325a2e8e5d1f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyLegacyApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdd45ceea8aaddb7a5912a2b01819d0393d22a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyLegacyApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyLegacyApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

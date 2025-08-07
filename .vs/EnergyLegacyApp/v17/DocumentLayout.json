@@ -1,47 +1,185 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\jagatjit-axcess\\EnergyHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|c:\\users\\jagatjit-axcess\\energyhub\\energylegacyapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|solutionrelative:energylegacyapp.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagatjit-axcess\\EnergyHub\\publish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:publish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|c:\\users\\jagatjit-axcess\\energyhub\\energylegacyapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|solutionrelative:energylegacyapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Energy hub project .net modernization\\EnergyHub-main\\EnergyLegacyApp.Web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|c:\\users\\jagatjit-axcess\\energyhub\\energylegacyapp.web\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|solutionrelative:energylegacyapp.web\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|c:\\users\\jagatjit-axcess\\energyhub\\energylegacyapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|solutionrelative:energylegacyapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jagatjit-axcess\\.docker\\contexts\\meta\\fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e\\meta.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|c:\\users\\jagatjit-axcess\\energyhub\\energylegacyapp.web\\energylegacyapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|solutionrelative:energylegacyapp.web\\energylegacyapp.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|c:\\users\\jagatjit-axcess\\energyhub\\energylegacyapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-7890-ABCD-EF1234567890}|EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj|solutionrelative:energylegacyapp.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\publish\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\publish\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\publish\\appsettings.json",
+              "RelativeDocumentMoniker": "publish\\appsettings.json",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\publish\\appsettings.json",
+              "RelativeToolTip": "publish\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T09:08:59.12Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e2a55d0c-91c1-4be2-9005-24d124232b4f}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Energy hub project .net modernization\\EnergyHub-main\\EnergyLegacyApp.Web\\appsettings.json",
+              "ToolTip": "D:\\Energy hub project .net modernization\\EnergyHub-main\\EnergyLegacyApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T08:31:24.028Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "meta.json",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\.docker\\contexts\\meta\\fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e\\meta.json",
+              "RelativeDocumentMoniker": "..\\.docker\\contexts\\meta\\fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e\\meta.json",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\.docker\\contexts\\meta\\fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e\\meta.json",
+              "RelativeToolTip": "..\\.docker\\contexts\\meta\\fe9c6bd7a66301f49ca9b6a70b217107cd1284598bfc254700c989b916da791e\\meta.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-05T08:18:42.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "EnergyLegacyApp.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "EnergyLegacyApp.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T11:06:42.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\log4net.config",
+              "RelativeDocumentMoniker": "EnergyLegacyApp.Web\\log4net.config",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\log4net.config",
+              "RelativeToolTip": "EnergyLegacyApp.Web\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-04T10:14:01.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "EnergyLegacyApp.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\appsettings.json",
+              "RelativeToolTip": "EnergyLegacyApp.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T10:13:56.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnergyLegacyApp.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+              "RelativeDocumentMoniker": "EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+              "RelativeToolTip": "EnergyLegacyApp.Web\\EnergyLegacyApp.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T08:58:14.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EnergyLegacyApp.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EnergyLegacyApp.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T08:52:00.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\publish\\Web.config",
+              "ToolTip": "D:\\publish\\Web.config",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-08-04T08:36:16.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\publish\\appsettings.json",
+              "ToolTip": "D:\\publish\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-04T08:24:40.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\Program.cs",
+              "RelativeDocumentMoniker": "EnergyLegacyApp.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\Program.cs",
+              "RelativeToolTip": "EnergyLegacyApp.Web\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:08:16.598Z",
+              "EditorCaption": ""
             }
           ]
         }

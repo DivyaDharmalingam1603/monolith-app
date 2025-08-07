@@ -1,8 +1,5 @@
 ﻿using EnergyLegacyApp.Data.Models;
-using System;
-using System.Collections.Generic;
 using System.Data;
-
 namespace EnergyLegacyApp.Data
 {
     public class EnergyConsumptionRepository
@@ -144,7 +141,6 @@ namespace EnergyLegacyApp.Data
 
             return summary;
         }
-
         private EnergyConsumption MapRowToEnergyConsumption(DataRow row)
         {
             return new EnergyConsumption

@@ -9,91 +9,93 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EnergyLegacyApp.Web
 build_property.RootNamespace = EnergyLegacyApp.Web
-build_property.ProjectDir = D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web\
+build_property.ProjectDir = C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Workbench\GitHub\Repos\EnergyHub\EnergyLegacyApp.Web
+build_property.MSBuildProjectDirectory = C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Web
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Analytics/Index.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Analytics/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW5hbHl0aWNzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Auth/AccessDenied.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Auth/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Auth/Index.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Auth/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Auth/Login.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Auth/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Auth/Register.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Auth/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Home/Index.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Home/Privacy.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Maintenance/Index.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Maintenance/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Create.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG93ZXJQbGFudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Details.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG93ZXJQbGFudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Edit.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG93ZXJQbGFudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Index.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/PowerPlant/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG93ZXJQbGFudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Shared/AccessDenied.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Shared/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFjY2Vzc0RlbmllZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Shared/Error.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Shared/Login.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Shared/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Shared/Register.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Shared/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Shared/_Layout.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/_ViewImports.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Workbench/GitHub/Repos/EnergyHub/EnergyLegacyApp.Web/Views/_ViewStart.cshtml]
+[C:/Users/jagatjit-axcess/EnergyHub/EnergyLegacyApp.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

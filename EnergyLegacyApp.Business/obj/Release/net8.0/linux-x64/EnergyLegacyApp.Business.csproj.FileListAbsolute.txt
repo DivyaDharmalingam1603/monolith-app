@@ -1,0 +1,16 @@
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Business.deps.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Business.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Business.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Data.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\bin\Release\net8.0\linux-x64\EnergyLegacyApp.Data.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.csproj.AssemblyReference.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.AssemblyInfoInputs.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.AssemblyInfo.cs
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.sourcelink.json
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLe.19ED8820.Up2Date
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\refint\EnergyLegacyApp.Business.dll
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\EnergyLegacyApp.Business.pdb
+C:\Users\jagatjit-axcess\EnergyHub\EnergyLegacyApp.Business\obj\Release\net8.0\linux-x64\ref\EnergyLegacyApp.Business.dll

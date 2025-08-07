@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "usXu4twzZFVu63eSzb7+j5qu3rmti5F8+F0Z/biXFd8=",
+  "Hash": "v5VZMY0tyotj/YUFf/xApUuiAMIDK0jUGLTX6O711Jo=",
   "Source": "EnergyLegacyApp.Web",
   "BasePath": "_content/EnergyLegacyApp.Web",
   "Mode": "Default",
@@ -10,49 +10,219 @@
     {
       "Name": "EnergyLegacyApp.Web\\wwwroot",
       "Source": "EnergyLegacyApp.Web",
-      "ContentRoot": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
       "BasePath": "_content/EnergyLegacyApp.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
       "SourceId": "EnergyLegacyApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
       "BasePath": "_content/EnergyLegacyApp.Web",
-      "RelativePath": "css/site.css",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "u7vy3r4ii9",
+      "Integrity": "dj54lRqu4VjF6fegUrntmNOI1JihpC7Wbk5RY2n5d30=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
       "SourceId": "EnergyLegacyApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Workbench\\GitHub\\Repos\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\",
       "BasePath": "_content/EnergyLegacyApp.Web",
-      "RelativePath": "js/site.js",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeBehavior": "",
       "AssetMergeSource": "",
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
+      "Fingerprint": "q22iosrcdc",
+      "Integrity": "ApMc+JbiMZkxksE5rC93Xc1OyWlurswL9ATbvV038BU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dj54lRqu4VjF6fegUrntmNOI1JihpC7Wbk5RY2n5d30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 08:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dj54lRqu4VjF6fegUrntmNOI1JihpC7Wbk5RY2n5d30="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.u7vy3r4ii9.css",
+      "AssetFile": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3701"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dj54lRqu4VjF6fegUrntmNOI1JihpC7Wbk5RY2n5d30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 08:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u7vy3r4ii9"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dj54lRqu4VjF6fegUrntmNOI1JihpC7Wbk5RY2n5d30="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ApMc+JbiMZkxksE5rC93Xc1OyWlurswL9ATbvV038BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 08:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ApMc+JbiMZkxksE5rC93Xc1OyWlurswL9ATbvV038BU="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.q22iosrcdc.js",
+      "AssetFile": "C:\\Users\\jagatjit-axcess\\EnergyHub\\EnergyLegacyApp.Web\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4243"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ApMc+JbiMZkxksE5rC93Xc1OyWlurswL9ATbvV038BU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Jul 2025 08:09:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q22iosrcdc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ApMc+JbiMZkxksE5rC93Xc1OyWlurswL9ATbvV038BU="
+        }
+      ]
     }
   ]
 }
