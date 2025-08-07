@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyLegacyApp.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdd45ceea8aaddb7a5912a2b01819d0393d22a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7ad73fc058bd841117ae8436aa433ef2576a705")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyLegacyApp.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyLegacyApp.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
