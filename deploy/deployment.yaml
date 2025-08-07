@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-dotnet-app
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: my-dotnet-app
+  template:
+    metadata:
+      labels:
+        app: my-dotnet-app
+    spec:
+      containers:
+      - name: my-dotnet-app
+        image: 148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon:latest
+        ports:
+        - containerPort: 80

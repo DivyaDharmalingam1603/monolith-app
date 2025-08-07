@@ -4,6 +4,9 @@ obj/
 out/
 !*/bin/
 !*/obj/
+*.assets.cache
+*.AssemblyReference.cache
+*.AssemblyInfoInputs.cache
 
 # .NET Core
 project.lock.json
