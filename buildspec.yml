@@ -21,14 +21,12 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - echo Listing root directory files:
+      - echo Checking files in root directory:
       - ls -la
-      - echo Listing publish directory files:
+      - echo Checking files in publish directory:
       - ls -la publish/
-      - echo Building Docker image with tag $IMAGE_TAG...
+      - echo Building the Docker image with tag $IMAGE_TAG...
       - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f ./publish/Dockerfile .
-      - echo Listing Docker images after build:
-      - docker images | grep $IMAGE_TAG
       - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
 
   post_build:
