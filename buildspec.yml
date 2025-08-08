@@ -3,9 +3,9 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "148336247604"               # Replace with your AWS Account ID
-    AWS_DEFAULT_REGION: "us-east-1"                    # Replace with your AWS region, e.g., us-east-1
+    AWS_DEFAULT_REGION: "us-east-1"              # Replace with your AWS region, e.g., us-east-1
     REPOSITORY_URI: "148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon"  # ECR repo URI
-    IMAGE_TAG: "latest"                               # Default tag; overridden during build with git SHA if desired something
+    IMAGE_TAG: "latest"                          # Default tag; overridden during build with git SHA if desired
 
 phases:
   pre_build:
@@ -17,13 +17,18 @@ phases:
       - echo Getting the git commit hash...
       - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
       - echo The commit hash is $COMMIT_HASH
-      - export IMAGE_TAG=${COMMIT_HASH:=latest}      # Tag images with commit SHA or fallback to latest
+      - export IMAGE_TAG=${COMMIT_HASH:-latest}      # Tag images with commit SHA or fallback to latest
+
   build:
     commands:
       - echo Build started on `date`
+      - echo Listing files for debug:
+      - ls -la
+      - ls -la publish/
       - echo Building the Docker image with tag $IMAGE_TAG...
-      - docker build -t $REPOSITORY_URI:$IMAGE_TAG .
+      - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f ./publish/Dockerfile .
       - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
+
   post_build:
     commands:
       - echo Build completed on `date`
