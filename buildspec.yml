@@ -4,7 +4,7 @@ env:
   variables:
     AWS_ACCOUNT_ID: "148336247604"
     AWS_DEFAULT_REGION: "us-east-1"
-    REPOSITORY_URI: "148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon"  # your ECR repo URI
+    REPOSITORY_URI: "148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon"
     IMAGE_TAG: "latest"
 
 phases:
@@ -15,7 +15,6 @@ phases:
       - echo Getting git commit hash...
       - COMMIT_HASH=$(echo $CODEBUILD_RESOLVED_SOURCE_VERSION | cut -c 1-7)
       - export IMAGE_TAG=${COMMIT_HASH:-latest}
-
   build:
     commands:
       - echo Build started on `date`
