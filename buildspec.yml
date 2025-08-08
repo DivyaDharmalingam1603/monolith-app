@@ -26,19 +26,12 @@ phases:
       - echo Building the Docker image with tag $IMAGE_TAG
       - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f ./publish/Dockerfile
       - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
-  build:
-  commands:
-    - ls -la publish/
-    - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f ./publish/Dockerfile .
-    - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
-
   post_build:
     commands:
       - echo Build completed on `date`
       - echo Pushing Docker images with tags $IMAGE_TAG and latest
       - docker push $REPOSITORY_URI:$IMAGE_TAG
       - docker push $REPOSITORY_URI:latest
-
 artifacts:
   files:
     - deploy/deployment.yaml
