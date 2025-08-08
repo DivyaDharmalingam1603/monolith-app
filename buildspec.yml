@@ -4,7 +4,7 @@ env:
   variables:
     AWS_ACCOUNT_ID: "148336247604"
     AWS_DEFAULT_REGION: "us-east-1"
-    REPOSITORY_URI: "148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon"
+    REPOSITORY_URI: "148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon"           # this is my duidspace file
     IMAGE_TAG: "latest"
 
 phases:
