@@ -26,6 +26,13 @@ phases:
       - echo Building the Docker image with tag $IMAGE_TAG
       - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f ./publish/Dockerfile
       - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
+  build:
+  commands:
+    - echo Listing files in publish directory before Docker build:
+    - ls -la publish/
+    - docker build -t $REPOSITORY_URI:$IMAGE_TAG -f ./publish/Dockerfile .
+    - docker tag $REPOSITORY_URI:$IMAGE_TAG $REPOSITORY_URI:latest
+
   post_build:
     commands:
       - echo Build completed on `date`
