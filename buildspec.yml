@@ -5,7 +5,7 @@ env:
     AWS_ACCOUNT_ID: "148336247604"                              # Your AWS Account ID
     AWS_DEFAULT_REGION: "us-east-1"                             # Your AWS Region
     REPOSITORY_URI: "148336247604.dkr.ecr.us-east-1.amazonaws.com/hackathon"  # Your ECR repository URI
-    IMAGE_TAG: "latest"                                         # Default image tag, overridden during build with git commit SHA if available
+    IMAGE_TAG: "latest"                                         # this is Default image tag, overridden during build with git commit SHA if available
 
 phases:
   pre_build:
